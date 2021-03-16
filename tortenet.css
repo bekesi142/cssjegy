@@ -10,8 +10,19 @@ a {
     color: rgb(102, 101, 132);
 }
 
-table {
+#table1 {
     margin: auto;
     width: 650px;
-    background-color: rgb(92, 107, 123)
+    background-color: rgb(92, 107, 123);
+}
+
+#table2 {
+    margin: auto;
+    width: 600px;
+    background-color: white;
+}
+
+#kek {
+    background-color: rgb(205, 219, 235);
+    height: 35px;
 }
