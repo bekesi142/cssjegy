@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(224, 224, 224);
+}
+
+p {
+    color: black;
+}
+
+a {
+    color: rgb(102, 101, 132);
+}
+
+table {
+    margin: auto;
+    width: 650px;
+    background-color: rgb(92, 107, 123)
+}
